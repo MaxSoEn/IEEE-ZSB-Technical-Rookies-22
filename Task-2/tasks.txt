@@ -1,0 +1,76 @@
+1. Write a program that asks the user for a string and tests whether it's a
+palindrome. If it's a palindrome print “yes”, if not, print “no”.
+EX1:
+Input:
+start
+Output:
+no
+
+EX2:
+Input:
+level
+Output:
+yes
+
+
+2. Write a program that takes a sorted list as an input and removes the
+duplicates.
+EX:
+Input:
+1 1 2 3 4 4 5 6 7 7 8 9
+Output:
+1 2 3 4 5 6 7 8 9
+
+
+3. Write a Python program that randomly generates a 3-digit number. Ask the
+user to guess a 3-digit number. For every digit that the user guessed correctly in
+the correct place, they have a "hit". For every digit the user guessed correctly in
+the wrong place is a "miss". Every time the user makes a guess, tell them how
+many hits and misses they have. Once the user guesses the correct number, the
+game is over. print the number of attempts they needed to guess the number.
+EX:
+if the random number is 427
+The program will look like this:
+Enter a 3-digit number:
+>>> 412
+1 hit 1 miss
+>>> 413
+1 hit 0 misses
+
+and so on until the user guesses the correct number
+
+4. Find the minimum distance between 2 similar numbers in a list.
+distance means -> the absolute difference between 2 indexes
+EX:
+Input:
+2 5 3 4 5 2
+Output:
+3 
+
+Explanation:
+There are 2 options:
+1-Distance between (2,2) which is 5 - 0 = 5
+2-Distance between (5,5) which is 4 - 1 = 3
+we want the minimum so we print 3
+
+5. Implement insertion sort.
+
+6. https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+HackerRank
+Find the Runner-Up Score!   | HackerRank
+For a given list of numbers, find the second largest number.
+
+7. https://www.hackerrank.com/challenges/find-a-string/problem
+HackerRank
+Find a string | HackerRank
+Find the number of occurrences of a substring in a string.
+
+8. https://www.hackerrank.com/challenges/nested-list/problem
+HackerRank
+Nested Lists | HackerRank
+In a classroom of N students, find the student with the second lowest grade.
+
+9. https://www.hackerrank.com/challenges/diagonal-difference/problem 
+HackerRank
+Diagonal Difference | HackerRank
+Calculate the absolute difference of sums across the two diagonals of a square matrix.
