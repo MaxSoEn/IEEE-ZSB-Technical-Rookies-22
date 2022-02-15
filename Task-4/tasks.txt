@@ -1,0 +1,72 @@
+1- Find the minimum distance between 2 similar numbers in a list.
+distance means -> the absolute difference between 2 indexes
+
+EX:
+Input:
+2 5 3 4 5 2
+Output:
+3
+
+Explanation:
+There are 2 options:
+1-Distance between (2,2) which is 5 - 0 = 5
+2-Distance between (5,5) which is 4 - 1 = 3
+we want the minimum so we print 3
+
+2- You have a sequence of letters that is repeated infinitely. Print the number of
+r's in the first n letters.
+Input:
+The first line represents the sequence of letters
+The second line represents n.
+
+EX:
+Input:
+rar
+10
+Output:
+7
+
+Explanation:
+'rar' is repeated infinitely, we only take the first n letters and check how many r's
+are in there. The first n(10 in the example) letters will be 'rarrarrarr'
+'r' is repeated 7 times so we print 7.
+
+3- Write a program that does the following operations on a linked list:
+*insertion (let the user choose the position of insertion)
+*deletion
+*Counting the Number of Occurrences of an Element in the Linked List using recursion
+
+4- https://www.hackerrank.com/challenges/library-fine/problem
+HackerRank
+Library Fine | HackerRank
+Help your library calculate fees for late books!
+
+5- https://www.hackerrank.com/challenges/find-digits/problem
+HackerRank
+Find Digits | HackerRank
+Calculate the number of digits in an integer that evenly divide it.
+
+6- https://www.hackerrank.com/challenges/chocolate-feast/problem
+HackerRank
+Chocolate Feast  | HackerRank
+Calculate the number of chocolates that can be bought following the given conditions.
+
+7- https://www.hackerrank.com/challenges/kaprekar-numbers/problem
+HackerRank
+Modified Kaprekar Numbers | HackerRank
+Print kaprekar numbers in the given range
+
+8- https://www.hackerrank.com/challenges/manasa-and-stones/problem
+HackerRank
+Manasa and Stones | HackerRank
+Calculate the possible values of the last stone where consecutive values on the stones differ by a value 'a' or a value 'b'.
+
+9- https://www.hackerrank.com/challenges/cavity-map/problem
+HackerRank
+Cavity Map | HackerRank
+Depict cavities on a square map
+
+10- https://www.hackerrank.com/challenges/electronics-shop/problem 
+HackerRank
+Electronics Shop | HackerRank
+Determine the most expensive Keyboard and USB drive combination one can purchase within her budget.
