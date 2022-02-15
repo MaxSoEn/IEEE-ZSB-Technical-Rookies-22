@@ -1,0 +1,92 @@
+1.You have n (n > 1) bottles of water, each bottle is described by remaining 
+volume of water and capacity. You should determine if you can pour all 
+remaining water into just 2 bottles. 
+Input: 
+The first line is n(number of bottles) 
+The next n lines contain 2 space-separated integers (remaining volume and 
+capacity) 
+Output: 
+print "Yes" if you can pour all the water into 2 bottles, otherwise print "No". 
+
+EX: 
+Input: 
+2 
+3 6 
+5 6 
+Output: 
+Yes 
+
+
+EX2: 
+Input: 
+3 
+6 6 
+8 10 
+9 12 
+Output: 
+No 
+
+2. https://www.hackerrank.com/challenges/between-two-sets/problem
+HackerRank
+Between Two Sets | HackerRank
+Find the number of integers that satisfies certain criteria relative to two sets.
+
+3. Write a program that generates a password which consists of 10 
+characters (numbers, lowercase letters, uppercase letters and other characters). 
+It should contain at least 1 number and at least 1 of these characters [@, #, $, %, 
+&]
+4. https://www.hackerrank.com/challenges/kangaroo/problem
+HackerRank
+Number Line Jumps | HackerRank
+Can two kangaroo meet after making the same number of jumps?
+
+5. https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+HackerRank
+Breaking the Records | HackerRank
+Given an array of Maria's basketball scores all season, determine the number of times she breaks her best and worst records.
+
+6. You are given a number that contains 4 digits with at least two distinct digits. 
+Your program should perform the following routine on the number: Arrange the 
+digits in descending order and in ascending order (adding zeros to fit it to a 
+4-digit number), and subtract the smaller number from the bigger number. Then 
+repeat the previous step. Performing this routine will always cause you to reach a 
+fixed number: 6174. Your program should return the number of times this routine 
+must be performed until 6174 is reached. For example, if num is 3524 your 
+program should return 3 because of the following steps: 
+(1) 5432 - 2345 = 3087 
+(2) 8730 - 0378 = 8352 
+(3) 8532 - 2358 = 6174 
+
+EX1:
+Input: 
+2111 
+Output: 
+5 
+
+
+EX2: 
+Input: 
+9831 
+Output: 
+7
+
+
+7.https://www.hackerrank.com/challenges/migratory-birds/problem
+HackerRank
+Migratory Birds | HackerRank
+Determine which type of bird in a flock occurs at the highest frequency.
+
+8. https://www.hackerrank.com/challenges/sock-merchant/problem
+HackerRank
+Sales by Match | HackerRank
+How many pairs of socks can Alex sell?
+
+9. https://www.hackerrank.com/challenges/counting-valleys/problem
+HackerRank
+Counting Valleys | HackerRank
+Count the valleys encountered during vacation.
+
+10. https://www.hackerrank.com/challenges/drawing-book/problem
+HackerRank
+Drawing Book  | HackerRank
+How many pages does a student need to turn to get to page p?
