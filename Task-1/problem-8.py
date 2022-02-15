@@ -1,5 +1,5 @@
-#Guessing Game
-#guess a random number between 1 and 10
+# Guessing Game
+# guess a random number between 1 and 10
 import random
 
 r = random.randint(1,10);
